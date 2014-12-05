@@ -1,0 +1,4 @@
+tempfile.txt
+#*.php
+# use for comment
+# file/*.log ignore all .log files in file folder
